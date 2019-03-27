@@ -1,2 +1,5 @@
-# verificationCode
-vue 验证码组件
+启动命令
+
+yarn
+
+yarn serve
